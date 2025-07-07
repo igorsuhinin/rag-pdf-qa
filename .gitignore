@@ -1,0 +1,6 @@
+.idea
+app/.env
+app/chroma_db
+app/pdfs
+app/eval_results.csv
+app/llm_eval_metrics.csv
